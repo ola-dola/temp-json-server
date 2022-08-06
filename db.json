@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Sofa",
+            "price": 1500,
+            "imgSrc": "https://google.com/typo"
+        },
+        {
+            "id": 2,
+            "title": "Dining Set",
+            "price": 2500,
+            "imgSrc": "https://google.com/typo"
+        },
+        {
+            "id": 3,
+            "title": "Water Heater",
+            "price": 10000,
+            "imgSrc": "https://google.com/typo"
+        },
+        {
+            "id": 4,
+            "title": "Air Conditioner",
+            "price": 175000,
+            "imgSrc": "https://google.com/typo"
+        }
+    ]
+}
